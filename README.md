@@ -219,7 +219,7 @@ If you like this project please give me a comment.
 
 
 
-I would like to thank thanks Microverse for helping me.
+I would like to thanks Microverse for helping me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
